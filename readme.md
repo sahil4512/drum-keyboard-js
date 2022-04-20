@@ -2,11 +2,11 @@
 
 ### Screenshot
 
-![Solutions ScreenShot](./css/screenshot.png))
+![Solutions ScreenShot](./css/screenshot.png)
 
 ### Links
 
-- Live Site URL: [Live Demo](https://glittery-baklava-1ce26d.netlify.app/)
+- Live Site URL: [Live Demo](https://glistening-panda-91f880.netlify.app/)
 
 ### Built with
 
